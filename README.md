@@ -12,7 +12,7 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
  **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml1N25qdXkxYmhpNzIwZHFpY3Y2MWNhZGxibmQ0Y3Jub2xwZ2pseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml1N25qdXkxYmhpNzIwZHFpY3Y2MWNhZGxibmQ0Y3Jub2xwZ2pseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PITGogw905wxvOcMjF/giphy.gif" align="right" alt="GIF" />
 
 **About Me!**
 
