@@ -2,7 +2,7 @@
 
 # Hola, soy Fernando! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
+Actualmente soy estudiante de informática, concretamente en Confección y Publicación de Páginas Web. computer engineering and learning web development - React.  love exploring and learning new tech stack. 
 <br/>
 <br/>
 
