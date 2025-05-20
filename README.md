@@ -5,9 +5,12 @@
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
 <br/>
 <br/>
-<p align="center">
-<i align="center">Thought : </i></b>
- </p>
+
+<h4 align="center">Pensamiento:</h4>
+<p align="center"><q>"Comenzar es la mitad del trabajo, comienza nuevamente con la mitad restante, y habrás terminado."</q><br><i align="center">(Marco Aurelio)</i></p>
+
+
+
 
  💻​ **INICIADO EN PROGRAMACIÓN**  ***Amante de las nuevas tecnologías.*** 🎮​.
  
