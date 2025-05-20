@@ -2,7 +2,7 @@
 
 # Hola, soy Fernando! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-Actualmente soy estudiante de informática, concretamente en Confección y Publicación de Páginas Web. HTML, CSS y Javascript, aunque también empleando herramientas como Bootstrap y CodePen.
+Actualmente soy estudiante de informática, concretamente en Confección y Publicación de Páginas Web. HTML, CSS y Javascript, aunque también empleando herramientas como Bootstrap, CodePen o WordPress.
 <br/>
 <br/>
 
