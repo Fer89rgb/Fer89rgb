@@ -1,15 +1,15 @@
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
-# Hola, me llamo Fernando! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+# Hola, soy Fernando! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
 I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I love exploring and learning new tech stack. 
 <br/>
 <br/>
 <p align="center">
-<i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>
+<i align="center">Thought : </i></b>
  </p>
 
- **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+ 💻​ **INICIADO EN PROGRAMACIÓN**  ***Amante de las nuevas tecnologías.*** 🎮​.
  
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam80dDJtMG44Z3ZiNjMzczdwd3h4b3AwZzhlcHYybDJ5azF1NXR4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDfClZn3KzGpSL2PXk/giphy.gif"/>
   
